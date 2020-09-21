@@ -168,7 +168,7 @@ Punto de control #9 **C++** diseñado para demostrar:
 
 ## :white_circle: Salida 
 
-![](imagenes/salida_acceso_aleatorio_cpp_cpp.png)
+![](imagenes/salida_acceso_aleatorio2_cpp.png)
 
 ---
 
@@ -192,7 +192,7 @@ Punto de control #9 **C++** diseñado para demostrar:
 
 ## :white_circle: Salida 
 
-![](imagenes/salida_acceso_aleatorio2_cpp_cpp.png)
+![](imagenes/salida_acceso_aleatorio2_cpp.png)
 
 ---
 
